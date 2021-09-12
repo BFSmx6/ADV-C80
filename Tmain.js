@@ -48,7 +48,7 @@ function sorting()
 
     for (var k = 0; k < longitud_nombre_alumnos_array; k++) 
     {
-        display_student_array_sorting.push("<h4>NAME - " + nombre_alumno_array[k] + "</h4>");
+        display_student_array_sorting.push("<h4>NOMBRE - " + nombre_alumno_array[k] + "</h4>");
         console.log(display_student_array_sorting);
     }
 
