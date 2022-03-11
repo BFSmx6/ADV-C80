@@ -58,8 +58,6 @@ function sorting()
     document.getElementById("ver_nombre_sin_comas").innerHTML = remover_comas;
 }
 
-
-//Actividad adicional
 function new_update()
 {
     document.getElementById("ver_nombre_sin_comas").innerHTML = "<h1>" + nombre_alumno_array +"</h1>";
